@@ -1,0 +1,19 @@
+{
+  "name": "timemanager",
+  "version": "0.0.1",
+  "description": "Simple time manager for frontend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+   "type": "git",
+   "url": "git+https://github.com/lBeJIuk/timemanager"
+ },
+  "keywords": [
+    "timemanager",
+    "gulp"
+  ],
+  "author": "lBeJIuk",
+  "license": "ISC"
+}
