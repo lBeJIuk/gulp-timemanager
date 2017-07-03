@@ -10,4 +10,5 @@ gulp.task('timer', function(cb) {
 });
 
 Second step: Start count
+
 gulp.watch([path]).on("change", timer().count);
