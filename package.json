@@ -1,6 +1,6 @@
 {
   "name": "gulp-timemanager",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Simple time manager for frontend ",
   "main": "index.js",
   "scripts": {
