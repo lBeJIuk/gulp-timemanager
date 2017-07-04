@@ -1,6 +1,7 @@
 # gulp-timemanager
 Simple time manager for frontend
 
+Helps to evaluate the time spent on development.
 
 First step: initialization
 
